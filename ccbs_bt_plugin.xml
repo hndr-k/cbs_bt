@@ -1,0 +1,5 @@
+<library path="ccbs_bt_node">
+  <class name="ccbs_bt/ccbs_bt" type="nav2_behavior_tree::WaitAction" base_class_type="nav2_behavior_tree::BtActionNode">
+    <description>A behavior to recover the omni-directional Robotino, when it is stuck.</description>
+  </class>
+</library>
